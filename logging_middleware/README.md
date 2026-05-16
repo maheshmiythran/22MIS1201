@@ -9,7 +9,7 @@ then import it and initialize it:
 import { Logger } from "logging-middleware";
 
 const logger = new Logger({
-  email: "student@example.edu",
+  email: "student@example",
   name: "Student",
   rollNo: "XXXX",
   accessCode: "XXXX",
