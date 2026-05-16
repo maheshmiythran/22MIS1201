@@ -15,4 +15,4 @@ npm start
 
 output screenshot:
 
-![alt text](<output screenshots/notification.png>)
+![alt text](outputscreenshots/notification.png)
